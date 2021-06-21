@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cheating_detection_react/static/css/main.b4177040.chunk.css",
+    "main.js": "/cheating_detection_react/static/js/main.7ea2b04b.chunk.js",
+    "main.js.map": "/cheating_detection_react/static/js/main.7ea2b04b.chunk.js.map",
+    "runtime-main.js": "/cheating_detection_react/static/js/runtime-main.a80b04a9.js",
+    "runtime-main.js.map": "/cheating_detection_react/static/js/runtime-main.a80b04a9.js.map",
+    "static/js/2.dae06207.chunk.js": "/cheating_detection_react/static/js/2.dae06207.chunk.js",
+    "static/js/2.dae06207.chunk.js.map": "/cheating_detection_react/static/js/2.dae06207.chunk.js.map",
+    "index.html": "/cheating_detection_react/index.html",
+    "static/css/main.b4177040.chunk.css.map": "/cheating_detection_react/static/css/main.b4177040.chunk.css.map",
+    "static/js/2.dae06207.chunk.js.LICENSE.txt": "/cheating_detection_react/static/js/2.dae06207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80b04a9.js",
+    "static/js/2.dae06207.chunk.js",
+    "static/css/main.b4177040.chunk.css",
+    "static/js/main.7ea2b04b.chunk.js"
+  ]
+}
